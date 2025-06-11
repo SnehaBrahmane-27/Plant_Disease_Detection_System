@@ -120,7 +120,7 @@ The **Plant Disease Detection System** uses the **New Plant Diseases Dataset** f
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YourUsername/plant-disease-detection.git
+   git clone https://github.com/SnehaBrahmane-27/Plant_Disease_Detection_System.git
    cd plant-disease-detection
    ```
 
