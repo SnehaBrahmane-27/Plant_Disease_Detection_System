@@ -166,16 +166,3 @@ B.Tech in IT
 📧 Email: [snehabrahmane281@gmail.com](mailto:snehabrahmane281@gmail.com)
 🌐 GitHub: [github.com/SnehaBrahmane-27](https://github.com/SnehaBrahmane-27)
 
----
-
-## 📝 LICENSE
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🔧 BADGES
-
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-blue)
-
